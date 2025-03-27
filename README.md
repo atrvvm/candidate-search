@@ -28,4 +28,4 @@ The **Candidate Search App** is a React + TypeScript application that allows emp
 - **CSS** (custom styling)
 
 ## Deployment
-The app is deployed on Render. You can access it here: 🔗 Live Demo
+The app is deployed on Render. You can access it here: 🔗 [Live Demo](https://candidate-search-l2io.onrender.com)
