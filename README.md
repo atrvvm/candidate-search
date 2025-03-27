@@ -13,12 +13,12 @@ The **Candidate Search App** is a React + TypeScript application that allows emp
 - Uses **local storage** to persist saved candidates.
 - **Styled UI** with a **dark-themed candidate card & table**.
 
-## Preview
+## Screenshots
 ### 🔹 Candidate Search Page
-![Candidate Search Page](./Assets/candidate-search.png)
+![alt text](Develop/src/assets/candidate-search.png)
 
 ### 🔹 Saved Candidates Page
-![Saved Candidates Page](./Assets/saved-candidates.png)
+![alt text](Develop/src/assets/potential-candidate.png)
 
 ## Technologies Used
 - **React** (with TypeScript)
