@@ -4,6 +4,9 @@ export interface Candidate {
     name?: string;
     avatar_url: string;
     email?: string;
+    html_url: string;
     company?: string;
     location?: string;
-}
+    bio?: string;
+  }
+  
